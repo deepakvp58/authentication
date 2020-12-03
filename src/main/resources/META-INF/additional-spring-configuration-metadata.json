@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "jwt.token.pathvariable",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.token.pathvariable'"
+  },
+  {
+    "name": "entity.user.name",
+    "type": "java.lang.String",
+    "description": "A description for 'entity.user.name'"
+  },
+  {
+    "name": "jwt.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'jwt.secret'"
+  }
+]}
